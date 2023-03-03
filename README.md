@@ -10,3 +10,6 @@ Instructions:
 - Change MQTT server and topics.
 - Install and use Pico LittleFS data upload to upload font to memory.
 
+Note about color on tft:
+- Background colors are in 4 digit hex, but not RGB > Ox GRB T
+For new colors use this and reverse RG https://dev.to/grahamthedev/hold-on-there-are-4-and-8-digit-hex-codes-for-colours-261
